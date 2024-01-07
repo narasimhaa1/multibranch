@@ -3,7 +3,10 @@ pipeline{
     stages{
         stage(build){
             steps{
+
                 echo "multibranch pipeleine from branch1"
+
+                
             }
         }
     }
